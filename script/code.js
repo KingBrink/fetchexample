@@ -1,4 +1,3 @@
-fetchData();
 function fetchData() {
     let container = document.querySelector('[data-container]')
     fetch("https://kingbrink.github.io/onlinestore/data/")
